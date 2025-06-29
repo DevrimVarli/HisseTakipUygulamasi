@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208402714657",
+    "project_id": "hisseler-658c8",
+    "storage_bucket": "hisseler-658c8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208402714657:android:904b21766f5e9c1d4d9360",
+        "android_client_info": {
+          "package_name": "com.example.borsa_uygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBEItcn0OEKaa1MWZ4RCazjWGAfSxueTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
